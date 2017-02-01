@@ -8,7 +8,7 @@ class AboutPage extends React.Component {
 
         return (
             <Layout
-                title="About us"
+                title="Acerca de"
                 activeTab="about">
 
                 <div className="row">

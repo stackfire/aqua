@@ -160,6 +160,9 @@ const manifest = {
             plugin: './server/web/about'
         },
         {
+            plugin: './server/web/live'
+        },
+        {
             plugin: './server/web/account'
         },
         {
